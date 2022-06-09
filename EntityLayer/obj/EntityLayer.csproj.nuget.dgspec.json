@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selim\\Desktop\\BlogProject\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\selim\\Desktop\\BlogDemo\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selim\\Desktop\\BlogProject\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\selim\\Desktop\\BlogDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogProject\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\selim\\Desktop\\BlogProject\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selim\\Desktop\\BlogProject\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIgEfV4S8Xs2CYr66zPNRsOpfkwoK+MLVpElmI0S2aCn1BYcIFq3cHyP7kRKfcZRAlftKau2Tev44UEcFNOXbw==",
+  "dgSpecHash": "YF0E6oiuEkbc08UCX7mVEuIsYiMWKvyq8dTfuPgXiFpGs5t3PDTZwrDZkwOh5958OgKdLc+XLFtGDEndq/kQ8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\jwtCore.csproj",
+  "projectFilePath": "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\jwtCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.13\\microsoft.aspnetcore.authentication.jwtbearer.5.0.13.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

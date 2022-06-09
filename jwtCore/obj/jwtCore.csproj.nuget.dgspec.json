@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\jwtCore.csproj": {}
+    "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\jwtCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\jwtCore.csproj": {
+    "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\jwtCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\jwtCore.csproj",
+        "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\jwtCore.csproj",
         "projectName": "jwtCore",
-        "projectPath": "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\jwtCore.csproj",
+        "projectPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\jwtCore.csproj",
         "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selim\\Desktop\\BlogProject\\jwtCore\\obj\\",
+        "outputPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\jwtCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oRIMIMPzBFl0Dzf5t/pknOFQQz8EZwrWIhCZKxHeYnHQd/lmOXDK6TEJEjKstrZ1aqzVCUNmlTh4ssCcJn4Fpw==",
+  "dgSpecHash": "/wD5BPB6naTt0fsPApAkP5n7Cq/1/Ph5fsTg4sM37zKDU+l9i0nlRZouq0bjHRKIv0R7uwtFND5Qo0TVfgIJLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\selim\\Desktop\\BlogProject\\BlogApiDemo\\BlogApiDemo.csproj",
+  "projectFilePath": "C:\\Users\\selim\\Desktop\\BlogDemo\\BlogApiDemo\\BlogApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\selim\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

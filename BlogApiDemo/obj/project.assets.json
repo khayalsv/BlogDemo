@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogProject\\BlogApiDemo\\BlogApiDemo.csproj",
+      "projectUniqueName": "C:\\Users\\selim\\Desktop\\BlogDemo\\BlogApiDemo\\BlogApiDemo.csproj",
       "projectName": "BlogApiDemo",
-      "projectPath": "C:\\Users\\selim\\Desktop\\BlogProject\\BlogApiDemo\\BlogApiDemo.csproj",
+      "projectPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\BlogApiDemo\\BlogApiDemo.csproj",
       "packagesPath": "C:\\Users\\selim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\selim\\Desktop\\BlogProject\\BlogApiDemo\\obj\\",
+      "outputPath": "C:\\Users\\selim\\Desktop\\BlogDemo\\BlogApiDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\selim\\AppData\\Roaming\\NuGet\\NuGet.Config",
